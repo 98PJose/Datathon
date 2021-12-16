@@ -24,3 +24,5 @@ para ajustar el Covid.
 
 PronosticoPrevision es un script donde se desarrollan modelos para hacer regresiones sobre
 el precio de un bien agrícola.
+
+Todas las bases de datos se encuentran en Datasets.zip
